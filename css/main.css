@@ -46,6 +46,7 @@ body {
   display: -ms-flexbox;
   display: flex;
   place-content: space-between;
+  flex-wrap:wrap;
 }
 
 .navbar .mobile-menu {
